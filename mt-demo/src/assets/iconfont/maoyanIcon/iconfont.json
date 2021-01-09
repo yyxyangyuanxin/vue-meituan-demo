@@ -1,0 +1,23 @@
+{
+  "id": "1906551",
+  "name": "mt",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "584248",
+      "name": "右箭头",
+      "font_class": "iconfontjiantou2",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "566774",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    }
+  ]
+}
